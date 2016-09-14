@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently studying my 4th year of the course Ethical Hacking at Abertay University in Dundee Scotland.
+Currently studying through my 4th year of Ethical Hacking (Hons) at the University of Abertay in Dundee Scotland.
 
 This Blog has the primary purpose of following the process of my Honours Project, from week 1 - deciding topics - all the way to the end of next semester with a final product.
 
