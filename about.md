@@ -6,13 +6,16 @@ permalink: /about/
 
 Currently studying through my 4th year of Ethical Hacking (Hons) at the University of Abertay in Dundee Scotland.
 
-This Blog has the primary purpose of following the process of my Honours Project, from week 1 - deciding topics - all the way to the end of next semester with a final product.
+This Blog has the primary purpose of following the process of my Honours Project, from week 1 - deciding topics - all the way to the end of next semester with a final paper.
 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Guitarist
+Avid Airsofter and Gun Builder
+basic hardware electronics crafting
+Loves Programming
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[s.bocquier.ceh@gmail.com](mailto:s.bocquier.ceh@gmail.com)
